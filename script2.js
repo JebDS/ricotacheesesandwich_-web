@@ -64,7 +64,7 @@ function initProfileTemplateCopy() {
 장난식, 불쾌함을 유발하는 이름 불가.
 
 성별
-only xx,xy
+여성 or 남성
 
 나이 
 만18세~29세 (only 성인)
